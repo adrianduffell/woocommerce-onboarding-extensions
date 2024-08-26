@@ -1,2 +1,2 @@
-# woocommerce-onboarding-recommendations
-Collection of free extensions recommended in WooCommerce onboarding. For code analysis and testing.
+# woocommerce-onboarding-extensions
+Collection of free extensions surfaced in WooCommerce onboarding. For code analysis and testing.
