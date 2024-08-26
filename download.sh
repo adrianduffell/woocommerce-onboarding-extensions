@@ -7,7 +7,7 @@ set -e
 plugins=(
     "https://downloads.wordpress.org/plugin/woocommerce-payments.zip"
     "https://downloads.wordpress.org/plugin/woocommerce-gateway-stripe.zip"
-    "https://downloads.wordpress.org/plugin/woocommerce-gateway-mercadopago.zip"
+    "https://downloads.wordpress.org/plugin/woocommerce-mercadopago.zip"
     "https://downloads.wordpress.org/plugin/woocommerce-paypal-payments.zip"
     "https://downloads.wordpress.org/plugin/mollie-payments-for-woocommerce.zip"
     "https://downloads.wordpress.org/plugin/woo-razorpay.zip"
