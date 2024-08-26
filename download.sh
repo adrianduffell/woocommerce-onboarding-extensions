@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Exit immediately if a command exits with a non-zero status
+set -e
+
 # Array of plugin URLs
 plugins=(
     "https://downloads.wordpress.org/plugin/woocommerce-payments.zip"
