@@ -23,6 +23,14 @@ plugins=(
     "https://downloads.wordpress.org/plugin/zipmoney-payments-woocommerce.zip"
     "https://downloads.wordpress.org/plugin/airwallex-online-payments-gateway.zip"
     "https://downloads.wordpress.org/plugin/payoneer-checkout.zip"
+    "https://downloads.wordpress.org/plugin/easyship-woocommerce-shipping-rates.zip"
+    "https://downloads.wordpress.org/plugin/woocommerce-shipstation-integration.zip"
+    "https://downloads.wordpress.org/plugin/skydropx-cotizador-y-envios.zip"
+    "https://downloads.wordpress.org/plugin/sendcloud-shipping.zip"
+    "https://downloads.wordpress.org/plugin/packlink-pro-shipping.zip"
+    "https://downloads.wordpress.org/plugin/woocommerce-services.zip"
+    "https://downloads.wordpress.org/plugin/taxjar-simplified-taxes-for-woocommerce.zip"
+    "https://downloads.wordpress.org/plugin/printful-shipping-for-woocommerce.zip"
 )
 
 # Download and unzip each plugin
